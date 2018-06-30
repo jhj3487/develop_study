@@ -1,2 +1,2 @@
-# python_study
+# develop_study
 python, docker, git
